@@ -1,0 +1,5 @@
+﻿  teacher.cpp
+F:\VS.C++\机房预约系统\机房预约系统\teacher.cpp(156,24): warning C4018: “<=”: 有符号/无符号不匹配
+F:\VS.C++\机房预约系统\机房预约系统\teacher.cpp(174,41): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+F:\VS.C++\机房预约系统\机房预约系统\teacher.cpp(178,41): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  机房预约系统.vcxproj -> F:\VS.C++\机房预约系统\Debug\机房预约系统.exe

@@ -1,0 +1,2 @@
+date:1 time:1 roomid:1 studentid:1 studentname:ding status:1 
+date:2 time:2 roomid:2 studentid:1 studentname:ding status:1 
